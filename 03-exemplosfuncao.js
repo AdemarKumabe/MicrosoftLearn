@@ -14,4 +14,4 @@ function createGreetingMessage(name) {
 let greetingMessage = createGreetingMessage("Ademar");
 
 
-console.log(greetingMessage)
+console.log(greetingMessage);
